@@ -11,7 +11,7 @@
   "dependencies": {
     "acorn": "0.3",
     "codemirror": "4",
-    "jszip": "^2.5.0",
+    "jszip": "^3.8.0",
     "uglify-js": "2"
   },
   "devDependencies": {
@@ -19,6 +19,6 @@
     "jsdom": "0.10",
     "canvas": "git://github.com/learnboost/node-canvas",
     "promise": "6",
-    "jszip": "2"
+    "jszip": "3.8.0"
   }
 }
