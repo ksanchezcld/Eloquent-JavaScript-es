@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "acorn": "0.3",
-    "codemirror": "4",
+    "codemirror": "6.0.0",
     "jszip": "^2.5.0",
     "uglify-js": "2"
   },
